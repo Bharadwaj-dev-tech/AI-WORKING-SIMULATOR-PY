@@ -1,0 +1,9 @@
+# Core dependencies
+PyQt5>=5.15.9
+numpy>=1.22.0
+
+# Development dependencies (optional)
+black>=22.0.0
+flake8>=4.0.0
+pytest>=7.0.0
+pytest-qt>=4.0.0
